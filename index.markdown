@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This is my site
+This is my home site
