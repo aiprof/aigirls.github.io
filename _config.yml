@@ -13,7 +13,7 @@ twitter_username: jekyllrb
 github_username:  jekyllwabcdefgddsfsfd
 
 # Build settings
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
